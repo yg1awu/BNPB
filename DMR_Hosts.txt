@@ -9,4 +9,6 @@ BNPBDEMO      0000    103.187.146.133   passw0rd  62031
 DEMO1         0000    103.76.120.39     passw0rd  62030
 DEMO2         0000    103.76.120.39     passw0rd  62031
 KRAP_DMR      0000    103.174.114.231   passw0rd  62030
+BM_5021_Malaysia		5021	5021.master.brandmeister.network	passw0rd	62031
+BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
 ######################################################################################################
